@@ -1,0 +1,14 @@
+input{
+	border-radius:50px;
+}
+
+textarea{
+	border: solid;
+}
+
+textarea:focus {
+	color:red;
+}
+
+textarea:focus {border: solid green;
+}
